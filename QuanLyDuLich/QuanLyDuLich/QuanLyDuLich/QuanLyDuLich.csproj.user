@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\f_admin_chitiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_admin_dichvu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_admin_khachhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_admin_nhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_admin_taikhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_admin_Ve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_NV_datve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_NV_DatVe_ChiTiet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_nv_quanlyve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_admin_Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\f_admin_tour.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="f_NhanVien_Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

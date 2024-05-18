@@ -1,0 +1,296 @@
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.exe
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.deps.json
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.runtimeconfig.json
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.pdb
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Login.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.GenerateResource.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfoInputs.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfo.cs
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CoreCompileInputs.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\refint\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.pdb
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.genruntimeconfig.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\ref\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Properties.Resources.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.AssemblyReference.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_Homepage.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Employee_Homepage.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CopyComplete
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_tour.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_dichvu.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_chitiet.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_khachhang.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_nhanvien.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_taikhoan.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_Ve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_datve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_nv_quanlyve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final_QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_DatVe_ChiTiet.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.exe
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.deps.json
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.runtimeconfig.json
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.pdb
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.AssemblyReference.cache
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_chitiet.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_dichvu.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_khachhang.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_nhanvien.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_taikhoan.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_tour.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_Ve.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_datve.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_DatVe_ChiTiet.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_nv_quanlyve.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_Homepage.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Login.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Properties.Resources.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.GenerateResource.cache
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfoInputs.cache
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfo.cs
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CoreCompileInputs.cache
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CopyComplete
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\refint\QuanLyDuLich.dll
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.pdb
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.genruntimeconfig.cache
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\ref\QuanLyDuLich.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.exe
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.deps.json
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.runtimeconfig.json
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.pdb
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.AssemblyReference.cache
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_chitiet.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_dichvu.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_khachhang.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_nhanvien.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_taikhoan.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_tour.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_Ve.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_datve.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_DatVe_ChiTiet.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_nv_quanlyve.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_Homepage.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Login.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Properties.Resources.resources
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.GenerateResource.cache
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfoInputs.cache
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfo.cs
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CoreCompileInputs.cache
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CopyComplete
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\refint\QuanLyDuLich.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.pdb
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.genruntimeconfig.cache
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\ref\QuanLyDuLich.dll
+C:\Users\ntphat\Downloads\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_NhanVien_Homepage.resources
+C:\Users\seeda\Desktop\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_NhanVien_Homepage.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.exe
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.deps.json
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.runtimeconfig.json
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.pdb
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.AssemblyReference.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_chitiet.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_dichvu.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_khachhang.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_nhanvien.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_taikhoan.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_tour.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_Ve.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_datve.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_DatVe_ChiTiet.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_nv_quanlyve.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_Homepage.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Login.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_NhanVien_Homepage.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Properties.Resources.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.GenerateResource.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.GeneratedMSBuildEditorConfig.editorconfig
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfoInputs.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfo.cs
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CoreCompileInputs.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CopyComplete
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\refint\QuanLyDuLich.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.pdb
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.genruntimeconfig.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\ref\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.exe
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.deps.json
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.runtimeconfig.json
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.pdb
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.AssemblyReference.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_chitiet.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_dichvu.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_khachhang.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_nhanvien.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_taikhoan.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_tour.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_Ve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_datve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_DatVe_ChiTiet.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_nv_quanlyve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_Homepage.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Login.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_NhanVien_Homepage.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Properties.Resources.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.GenerateResource.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfoInputs.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfo.cs
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CoreCompileInputs.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CopyComplete
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\refint\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.pdb
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.genruntimeconfig.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_11-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\ref\QuanLyDuLich.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.exe
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.deps.json
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.runtimeconfig.json
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.pdb
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.AssemblyReference.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_chitiet.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_dichvu.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_khachhang.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_nhanvien.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_taikhoan.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_tour.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_Ve.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_datve.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_DatVe_ChiTiet.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_nv_quanlyve.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_Homepage.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Login.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_NhanVien_Homepage.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Properties.Resources.resources
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.GenerateResource.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.GeneratedMSBuildEditorConfig.editorconfig
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfoInputs.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfo.cs
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CoreCompileInputs.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CopyComplete
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\refint\QuanLyDuLich.dll
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.pdb
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.genruntimeconfig.cache
+A:\Phạm Trí Đạt\tài liệu học\LTUD\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\ref\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.AssemblyReference.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.GenerateResource.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\refint\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.pdb
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.exe
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.deps.json
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.runtimeconfig.json
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.pdb
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_chitiet.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_dichvu.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_khachhang.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_nhanvien.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_taikhoan.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_tour.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_Ve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_datve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_DatVe_ChiTiet.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_nv_quanlyve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_Homepage.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Login.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_NhanVien_Homepage.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Properties.Resources.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfoInputs.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfo.cs
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CoreCompileInputs.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CopyComplete
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.genruntimeconfig.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Test_13-4\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\ref\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.exe
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.deps.json
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.runtimeconfig.json
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\QuanLyDuLich.pdb
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.AssemblyReference.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_chitiet.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_dichvu.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_khachhang.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_nhanvien.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_taikhoan.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_tour.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_admin_Ve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_datve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_NV_DatVe_ChiTiet.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Forms.f_nv_quanlyve.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_admin_Homepage.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_Login.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.f_NhanVien_Homepage.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.Properties.Resources.resources
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.GenerateResource.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfoInputs.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.AssemblyInfo.cs
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CoreCompileInputs.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.csproj.CopyComplete
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\refint\QuanLyDuLich.dll
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.pdb
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\QuanLyDuLich.genruntimeconfig.cache
+D:\CTU\Năm 3 - HK 2\[1] CT291 - Lập trình ứng dụng\Final Project\QuanLyDuLich\QuanLyDuLich\QuanLyDuLich\obj\Debug\net8.0-windows\ref\QuanLyDuLich.dll
